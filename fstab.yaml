@@ -1,2 +1,4 @@
 mountpoints:
-  /: https://drive.google.com/drive/u/0/folders/1DIpkYlV5-7679Tc5_-DZr4b6AEySCulZ?ths=true
+  /:
+    url: https://content.da.live/ynakagawa/aem-demo/
+    type: markup
